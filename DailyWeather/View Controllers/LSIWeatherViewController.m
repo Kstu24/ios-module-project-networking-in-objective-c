@@ -18,6 +18,8 @@
 @property CLLocationManager *locationManager;
 @property CLLocation *location;
 @property (nonatomic) CLPlacemark *placemark;
+@property UIToolbar *toolbar;
+@property UIBarButtonItem *infoButton;
 
 @end
 
